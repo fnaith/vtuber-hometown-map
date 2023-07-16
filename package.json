@@ -1,0 +1,13 @@
+{
+  "name": "d3-map",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "dependencies": {
+    "d3": "^5.15.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
